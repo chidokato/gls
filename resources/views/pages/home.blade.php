@@ -172,30 +172,57 @@
                 <div class="col-lg-12">
                     <h4 class="title"><span>Ban lãnh đạo</span></h4>
                     <div class="owl-carousel lanhdao-slider">
-                        <div class="row iteam_row">
-                            <div class="col-lg-9">
+                        <!-- <div class="row iteam_row">
+                            <div class="col-lg-8">
                                 <div class="info">
                                     <h3>Mr. Nguyễn Xuân Minh</h3>
-                                    <h4>Chủ tịch hội đồng quản trị công ty cổ phần GLS Education</h4>
-                                    <p>Với vai trò là người lãnh đạo cao nhất của Hội đồng quản trị, anh Minh có vai trò quyết định chiến lược và mục tiêu của công ty. Anh cũng là người đại diện cho GLS Education trong các cuộc đàm phán với các đối tác chiến lược và các bên liên quan khác, đảm bảo sự phát triển bền vững và thành công của công ty.</p>
+                                    <h4><i class="fa fa-exclamation-circle" aria-hidden="true"></i>  Chủ tịch hội đồng quản trị công ty cổ phần GLS Education</h4>
+                                    <img src="data/home/icon-before-custom.png">
+                                    <p> Với vai trò là người lãnh đạo cao nhất của Hội đồng quản trị, anh Minh có vai trò quyết định chiến lược và mục tiêu của công ty. Anh cũng là người đại diện cho GLS Education trong các cuộc đàm phán với các đối tác chiến lược và các bên liên quan khác, đảm bảo sự phát triển bền vững và thành công của công ty.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-4">
                                 <div class="img"><img src="data/home/giamdoc.png"></div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="row iteam_row">
-                            <div class="col-lg-9">
+                            <div class="col-lg-8">
                                 <div class="info">
                                     <h3>Mr. Bùi Quang Dự</h3>
-                                    <h4>Tổng Giám đốc công ty cổ phần GLS Education</h4>
+                                    <h4><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Tổng Giám đốc công ty cổ phần GLS Education</h4>
+                                    <img src="data/home/icon-before-custom.png">
                                     <p>Là người đóng vai trò chủ chốt trong việc thực thi chiến lược do Hội đồng quản trị đề ra và đảm bảo rằng mọi hoạt động diễn ra suôn sẻ và hiệu quả. Anh cũng đại diện cho công ty trong các mối quan hệ với đối tác và khách hàng, xây dựng và duy trì mối quan hệ hợp tác lâu dài.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-4">
                                 <div class="img"><img src="data/home/giamdoc.png"></div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="chuongtrinhhoc f8f8f8">
+        <div class="container">
+            <div class="owl-carousel lanhdao-slider">
+                <div class="row">
+                    <div class="col-lg-6 info">
+                        <h4 class="title"><span>Chương trình thực tập sinh MỸ</span></h4>
+                        <p>Chương trình thực tập sinh tại Mỹ là chương trình cho phép công dân nước ngoài có đủ tư cách cư trú ngắn hạn tại Mỹ (diện visa J1) để tham gia các chương trình thực tập và đào tạo tại Hoa Kì. Bạn sẽ được làm việc trong một công ty tại Mỹ, có cơ hội để tìm hiểu văn hóa và môi trường làm việc tại Mỹ</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="img"><img src="data/home/thuctapmy.jpg"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 info">
+                        <h4 class="title"><span>Chương trình thực tập sinh ĐỨC</span></h4>
+                        <p>Chương trình thực tập sinh tại Mỹ là chương trình cho phép công dân nước ngoài có đủ tư cách cư trú ngắn hạn tại Mỹ (diện visa J1) để tham gia các chương trình thực tập và đào tạo tại Hoa Kì. Bạn sẽ được làm việc trong một công ty tại Mỹ, có cơ hội để tìm hiểu văn hóa và môi trường làm việc tại Mỹ</p>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="img"><img src="data/home/thuctapduc.jpg"></div>
                     </div>
                 </div>
             </div>
