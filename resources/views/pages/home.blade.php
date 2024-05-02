@@ -219,7 +219,8 @@
                 <div class="row">
                     <div class="col-lg-6 info">
                         <h4 class="title"><span>Chương trình thực tập sinh ĐỨC</span></h4>
-                        <p>Chương trình thực tập sinh tại Mỹ là chương trình cho phép công dân nước ngoài có đủ tư cách cư trú ngắn hạn tại Mỹ (diện visa J1) để tham gia các chương trình thực tập và đào tạo tại Hoa Kì. Bạn sẽ được làm việc trong một công ty tại Mỹ, có cơ hội để tìm hiểu văn hóa và môi trường làm việc tại Mỹ</p>
+                        <p>Thực tập hưởng lương tại Đức là chương trình được nhiều bạn trẻ yêu thích. Không chỉ trải nghiệm môi trường làm việc tại Đức, thực tập sinh còn được khám phá văn hóa bản địa</p>
+                        <p>Đức từ lâu được biết đến là một trong những nước phát triển nhất thế giới. Quốc gia này giữ vai trò quan trọng trong việc định hình nền kinh tế của Liên minh châu  u. Cùng với nền kinh tế phát triển, nhu cầu về nguồn nhân lực tại Đức luôn ở mức cao, đặc biệt trong những ngành mũi nhọn, có tiềm năng lớn như khách sạn, du lịch và nông nghiệp</p>
                     </div>
                     <div class="col-lg-6">
                         <div class="img"><img src="data/home/thuctapduc.jpg"></div>
