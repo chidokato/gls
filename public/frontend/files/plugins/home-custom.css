@@ -163,6 +163,8 @@
 .chuongtrinhhoc .info{ flex-direction: column;justify-content: center; display:flex; }
 .chuongtrinhhoc .info h4{ margin-bottom:20px; text-align:left; }
 
+.anh .img{ text-align:center; }
+.anh p{ text-align:center; font-weight:bold; font-size:1.3rem; margin:20px auto; }
 
 .owl-carousel button.owl-dot {
     width: 10px;

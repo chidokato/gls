@@ -348,10 +348,7 @@ section.banner.banner_rooms img{
 }
 
 .active a, .page-item:hover a {
-	 background: #c7b39a;
-    color: #fff !important;
     text-decoration: none ;
-    border-color: #c7b39a;
 }
 
 

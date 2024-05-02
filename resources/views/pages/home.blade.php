@@ -58,6 +58,24 @@
         </div>
     </div>
 
+    <div class="anh">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="img">
+                        <img src="data/home/hocvien.png">
+                        <p>KIẾN TẠO ƯỚC MƠ VƯƠN TẦM QUỐC TẾ</p>
+                    </div>
+                    <!-- <div class="owl-carousel lanhdao-anh">
+                        <div class="iteam_row">
+                            <div class="img"> <img src="data/home/thuctapmy.jpg"> </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="col-184293026 f8f8f8">
         <div class="container">
             <h2 class="title"><span>LỊCH SỬ HÌNH THÀNH</span></h2>
@@ -224,6 +242,40 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="img"><img src="data/home/thuctapduc.jpg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="main_news">
+        <div class="container news_container">
+            <div class="news_text">
+                <h2 class="home-title">TIN TỨC</h2>
+                <div class="heading__line"></div>
+            </div>
+            <div class="news_list">
+                <div class="news_list-row">
+                    <div class="owl-carousel lanhdao-tintuc">
+                        @foreach($posts->PostTranslation()->paginate(6) as $val)
+                        <div class="news_list-item">
+                            <div class="news_item-img">
+                                <a href="{{$posts->Category->slug}}/{{$val->post->slug}}">
+                                    <img src="data/news/{{$val->post->img}}" alt="cho-tinh-sapa">
+                                </a>
+                            </div>
+                            <div class="news_item-text">
+                                <div class="news_item-title">
+                                    <a href="{{$posts->Category->slug}}/{{$val->post->slug}}">
+                                        {{$val->name}}
+                                    </a>
+                                </div>
+                                <div class="read_more">
+                                    <a href="{{$posts->Category->slug}}/{{$val->post->slug}}">Chi tiết</a>
+                                </div>
+                            </div>
+                        </div>
+                        @endforeach
                     </div>
                 </div>
             </div>
