@@ -159,7 +159,7 @@
                     <div class="img"><img src="data/home/giatri.png"></div>
                 </div>
                 <div class="col-lg-7">
-                    <h4 class="title"><span>Giá trị cốt lõi</span></h4>
+                    <h4 class="title"><span>Sứ Mệnh</span></h4>
                     <div class="a1211">
                         <div class="iteam_row">
                             <img src="data/home/icon-park-outline_customer.svg">
@@ -226,23 +226,25 @@
         <div class="container">
             <div class="owl-carousel lanhdao-slider">
                 <div class="row">
-                    <div class="col-lg-6 info">
+                    <div class="col-lg-5">
+                        <div class="img"><img src="data/home/thuctapmy.jpg"></div>
+                    </div>
+                    <div class="col-lg-7 info">
                         <h4 class="title"><span>Chương trình thực tập sinh MỸ</span></h4>
                         <p>Chương trình thực tập sinh tại Mỹ là chương trình cho phép công dân nước ngoài có đủ tư cách cư trú ngắn hạn tại Mỹ (diện visa J1) để tham gia các chương trình thực tập và đào tạo tại Hoa Kì. Bạn sẽ được làm việc trong một công ty tại Mỹ, có cơ hội để tìm hiểu văn hóa và môi trường làm việc tại Mỹ</p>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="img"><img src="data/home/thuctapmy.jpg"></div>
-                    </div>
+                    
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 info">
+                    <div class="col-lg-5">
+                        <div class="img"><img src="data/home/thuctapduc.jpg"></div>
+                    </div>
+                    <div class="col-lg-7 info">
                         <h4 class="title"><span>Chương trình thực tập sinh ĐỨC</span></h4>
                         <p>Thực tập hưởng lương tại Đức là chương trình được nhiều bạn trẻ yêu thích. Không chỉ trải nghiệm môi trường làm việc tại Đức, thực tập sinh còn được khám phá văn hóa bản địa</p>
                         <p>Đức từ lâu được biết đến là một trong những nước phát triển nhất thế giới. Quốc gia này giữ vai trò quan trọng trong việc định hình nền kinh tế của Liên minh châu  u. Cùng với nền kinh tế phát triển, nhu cầu về nguồn nhân lực tại Đức luôn ở mức cao, đặc biệt trong những ngành mũi nhọn, có tiềm năng lớn như khách sạn, du lịch và nông nghiệp</p>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="img"><img src="data/home/thuctapduc.jpg"></div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -282,66 +284,6 @@
         </div>
     </div>
 
-    <div class="column_inner section23489234">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="iteam">
-                        <img class="icon" src="frontend/imgs/icon-down.png">
-                        <div class="item_img">
-                            <img src="frontend/imgs/fb.png">
-                        </div>
-                        <div class="info">
-                            <p>Facebook</p>
-                            <h6><a href="https://www.facebook.com/duhocgls.edu.vn/">Du học GLS</a></h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="iteam">
-                        <img class="icon" src="frontend/imgs/icon-down.png">
-                        <div class="item_img">
-                            <img src="frontend/imgs/zalo.png">
-                        </div>
-                        <div class="info">
-                            <p>Zalo</p>
-                            <h6><a href="https://zalo.me/0967943945">0967.943.945</a></h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="iteam">
-                        <img class="icon" src="frontend/imgs/icon-down.png">
-                        <div class="item_img">
-                            <img src="frontend/imgs/hotline.png">
-                        </div>
-                        <div class="info">
-                            <p>Hotline</p>
-                            <h6><a href="tel:0967943945">0967.943.945</a></h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="iteam">
-                        <img class="icon" src="frontend/imgs/icon-down.png">
-                        <div class="item_img">
-                            <img src="frontend/imgs/email.jpg">
-                        </div>
-                        <div class="info">
-                            <p>Email</p>
-                            <h6><a href="mail:duhocgls@gmail.com">duhocgls@gmail.com</a></h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    
-    <div class="maps-home">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14901.943022387779!2d105.7878974!3d20.9731568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ad24981b983b%3A0x15407a1996506fd3!2zVFJVTkcgVMOCTSBUxq8gVuG6pE4gRFUgSOG7jEMgR0xTIEVEVUNBVElPTg!5e0!3m2!1svi!2s!4v1686717847230!5m2!1svi!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-    
 
 </section>
 
@@ -350,5 +292,24 @@
 
 @section('js')
 
+<script type="text/javascript">
+    window.addEventListener('scroll', function() {
+    var menu = document.querySelector('.header_nav');
+    var scrollPosition = window.scrollY;
+
+    // Thay đổi giá trị này để điều chỉnh vị trí xuống cuối trang trước khi thêm class 'active'
+    var triggerPosition = 1;
+
+    if (scrollPosition > triggerPosition) {
+        menu.style.transition = "color 0.5s ease"; // Áp dụng hiệu ứng transition cho màu chữ
+        menu.classList.add('active');
+    } else {
+        menu.style.transition = ""; // Reset hiệu ứng transition
+        menu.classList.remove('active');
+    }
+});
+
+
+</script>
 
 @endsection

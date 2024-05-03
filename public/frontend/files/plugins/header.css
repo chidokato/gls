@@ -5,7 +5,7 @@
 /*#cssmenu:after,#cssmenu > ul:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}*/
 #cssmenu #head-mobile{display:none}
 #cssmenu > ul > li{float:left}
-#cssmenu > ul > li > a{padding:22px;font-size:12px;letter-spacing:1px;text-decoration:none;color:#fff;font-weight:700; text-transform: uppercase;}
+#cssmenu > ul > li > a{padding:22px;font-size:14px;letter-spacing:1px;text-decoration:none;color:#fff;font-weight:700; text-transform: uppercase;}
 #cssmenu > ul > li:hover > a,#cssmenu ul li.active a{color:#fff; background: var(--sub-color);}
 #cssmenu > ul > li:hover,#cssmenu ul li.active:hover,#cssmenu ul li.active,#cssmenu ul li.has-sub.active:hover{background:var(--sub-color)!important;-webkit-transition:background .3s ease;-ms-transition:background .3s ease;transition:background .3s ease;}
 #cssmenu > ul > li.has-sub > a{padding-right:30px}

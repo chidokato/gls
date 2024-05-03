@@ -1681,3 +1681,5 @@ a:hover {
 .section157{ padding: 50px 0px }
 .section157 ul li{ margin: 16px 0px !important; }
 
+.header_nav{transition: color 1s ease;}
+.header_nav.active{ background:#fff; transition: color 1s ease; }
