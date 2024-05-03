@@ -62,7 +62,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="img">
-                        <img src="data/home/hocvien.png">
+                        <img src="data/home/anh1.png">
                         <p>KIẾN TẠO ƯỚC MƠ VƯƠN TẦM QUỐC TẾ</p>
                     </div>
                     <!-- <div class="owl-carousel lanhdao-anh">
@@ -155,7 +155,7 @@
         <div class="container ">
             <div class="row">
                 <div class="col-lg-5 left">
-                    <div class="img"><img src="data/home/giatri.png"></div>
+                    <div class="img"><img src="data/home/anh2.png"></div>
                 </div>
                 <div class="col-lg-7">
                     <h4 class="title"><span>Sứ Mệnh</span></h4>
