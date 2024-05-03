@@ -28,9 +28,8 @@
                 <div class="col-lg-12">
                     <h1 class="title"><span>CÔNG TY CỔ PHẦN GLS EDUCATION</span></h1>
                     <div>
-                        <p>Công ty cổ phần GLS Education được thành lập và phát triển bởi đội ngũ Co-Founder là những du học sinh học tập và sinh sống tại các nước Châu Âu hơn 10 năm với mục tiêu chung tay xây dựng đất nước và góp phần nâng cao giá trị người Việt.</p>
-                        <p>Bắt đầu từ năm 2018, trải qua 5 năm hình thành và phát triển, cho đến nay GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề tại các quốc gia hàng đầu trên thế giới.</p>
-                        <p>Sở hữu mạng lưới đối tác chiến lược rộng khắp toàn cầu cùng đội ngũ cố vấn làm việc với tinh thần “ Nhiệt tình - Trách nhiệm- Tâm huyết”, chúng tôi tin rằng có thể mang đến những cơ hội tuyệt vời nhất cho học viên trong việc chọn lựa chương trình học phù hợp và đạt được mục tiêu của mình.</p>
+                        <p>Công ty cổ phần GLS Education được thành lập năm 2018, là công ty con trực thuộc Tập đoàn GSG (Green Solution Group). Trải qua 5 năm hình thành và phát triển, GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề tại các quốc gia hàng đầu trên thế giới.</p>
+                        <p>Sở hữu mạng lưới đối tác chiến lược rộng khắp toàn cầu cùng đội ngũ cố vấn làm việc với tinh thần “ Chuyên nghiệp - Trách nhiệm - Tâm huyết”, chúng tôi tin rằng có thể mang đến những cơ hội tuyệt vời nhất cho học viên trong việc chọn lựa chương trình học phù hợp và đạt được mục tiêu của mình.</p>
 
                     </div>
                     <div class="logo-home">

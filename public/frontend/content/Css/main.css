@@ -1683,3 +1683,6 @@ a:hover {
 
 .header_nav{transition: color 1s ease;}
 .header_nav.active{ background:#fff; transition: color 1s ease; }
+.header_nav.active #cssmenu > ul > li > a{ color:var(--main-color); }
+
+.header_nav.active #cssmenu > ul > li.has-sub > a:before, .header_nav.active #cssmenu > ul > li.has-sub > a:after{ background:var(--main-color); }
