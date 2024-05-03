@@ -6,6 +6,7 @@
 @section('url'){{asset('')}}@endsection
 
 @section('content')
+@include('layout.header_cat')
 <section class="banner banner-contact" style="background-image: url(frontend/files/images/bn/trip14_com_7099d686a5963081173d66042ce3ab7f.jpg)">
      
 </section>

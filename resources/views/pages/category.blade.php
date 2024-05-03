@@ -12,12 +12,13 @@
 .star-rating i{ color: #ffc107 }
 .booking_icon{margin-top: 10px;}
 .row_item-img img {width: 100%;height: 165px;object-fit: cover;}
+
 </style>
 @endsection
 
 @section('content')
 
-
+@include('layout.header_cat')
 
 <section class="main">
     <div class="main_space"></div>

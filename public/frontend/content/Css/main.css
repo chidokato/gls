@@ -1094,8 +1094,8 @@ h2.title {
     /* Footer */
 
     .main_footer {
-            padding: 70px 0 50px;
-        background-color: var(--main-color);
+        padding: 70px 0 50px;
+        /* background-color: var(--main-color);*/
         color: #fbfbfbcc;
     }
     
@@ -1682,7 +1682,9 @@ a:hover {
 .section157 ul li{ margin: 16px 0px !important; }
 
 .header_nav{transition: color 1s ease;}
-.header_nav.active{ background:#fff; transition: color 1s ease; }
+.header_nav.active{ background:#fff; transition: color 1s ease; box-shadow: 0px 0px 4px -2px; }
 .header_nav.active #cssmenu > ul > li > a{ color:var(--main-color); }
 
 .header_nav.active #cssmenu > ul > li.has-sub > a:before, .header_nav.active #cssmenu > ul > li.has-sub > a:after{ background:var(--main-color); }
+
+.footer h4.title{ text-align:left; font-size:1.2rem; margin-bottom:20px }

@@ -12,6 +12,8 @@
 
 @section('content')
 
+@include('layout.header')
+
 <div class="header_banner">
 
     <video class="video-bg fill visible" preload="" playsinline="" autoplay="" muted="" loop="">

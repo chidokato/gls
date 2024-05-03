@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/home-custom.css">
 @endsection
 @section('content')
-
+@include('layout.header_cat')
 <div class="header_banner">
     <div class="banner-slider owl-carousel owl-theme">
             @foreach($slider as $val)

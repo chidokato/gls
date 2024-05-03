@@ -60,7 +60,7 @@
 
 <body>
 
-@include('layout.header')
+
 
 @yield('content')
 
