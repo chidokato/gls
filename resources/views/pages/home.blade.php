@@ -30,7 +30,7 @@
                 <div class="col-lg-12">
                     <h1 class="title"><span>CÔNG TY CỔ PHẦN GLS EDUCATION</span></h1>
                     <div>
-                        <p>Công ty cổ phần GLS Education được thành lập năm 2018, là công ty con trực thuộc Tập đoàn GSG (Green Solution Group). Trải qua 5 năm hình thành và phát triển, GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề tại các quốc gia hàng đầu trên thế giới.</p>
+                        <p>Công ty cổ phần GLS Education là công ty con trực thuộc Tập đoàn GSG (Green Solution Group). Trải qua nhiều năm hình thành và phát triển, song hành cùng tập đoàn GSG, GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề tại các quốc gia hàng đầu trên thế giới.</p>
                         <p>Sở hữu mạng lưới đối tác chiến lược rộng khắp toàn cầu cùng đội ngũ cố vấn làm việc với tinh thần “ Chuyên nghiệp - Trách nhiệm - Tâm huyết”, chúng tôi tin rằng có thể mang đến những cơ hội tuyệt vời nhất cho học viên trong việc chọn lựa chương trình học phù hợp và đạt được mục tiêu của mình.</p>
                     </div>
                     <div class="logo-home">
@@ -194,7 +194,7 @@
     <div class="lanhdao">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12" data-aos="fade-up">
+                <div class="col-lg-12" data-aos="fade-right">
                     <h4 class="title"><span>Ban lãnh đạo</span></h4>
                     <div class="owl-carousel lanhdao-slider">
                         <!-- <div class="row iteam_row">
@@ -231,7 +231,7 @@
 
     <div class="chuongtrinhhoc f8f8f8">
         <div class="container">
-            <div class="owl-carousel lanhdao-slider" data-aos="fade-up">
+            <div class="owl-carousel lanhdao-slider" data-aos="fade-left">
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="img"><img src="data/home/thuctapmy.jpg"></div>
@@ -248,8 +248,7 @@
                     </div>
                     <div class="col-lg-7 info">
                         <h4 class="title"><span>Chương trình thực tập sinh ĐỨC</span></h4>
-                        <p>Thực tập hưởng lương tại Đức là chương trình được nhiều bạn trẻ yêu thích. Không chỉ trải nghiệm môi trường làm việc tại Đức, thực tập sinh còn được khám phá văn hóa bản địa</p>
-                        <p>Đức từ lâu được biết đến là một trong những nước phát triển nhất thế giới. Quốc gia này giữ vai trò quan trọng trong việc định hình nền kinh tế của Liên minh châu  u. Cùng với nền kinh tế phát triển, nhu cầu về nguồn nhân lực tại Đức luôn ở mức cao, đặc biệt trong những ngành mũi nhọn, có tiềm năng lớn như khách sạn, du lịch và nông nghiệp</p>
+                        <p>Chương trình du học nghề tại Đức là chương trình được nhiều bạn trẻ yêu thích. Đức từ lâu được biết đến là một trong những nước phát triển nhất thế giới. Quốc gia này giữ vai trò quan trọng trong việc định hình nền kinh tế của Liên minh châu  u. Cùng với nền kinh tế phát triển, nhu cầu về nguồn nhân lực tại Đức luôn ở mức cao, đặc biệt trong những ngành mũi nhọn, có tiềm năng lớn như khách sạn, du lịch và nông nghiệp</p>
                     </div>
                     
                 </div>
