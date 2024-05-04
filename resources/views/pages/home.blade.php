@@ -76,7 +76,7 @@
         </div>
     </div>
 
-    <div class="col-184293026 f8f8f8">
+    <!-- <div class="col-184293026 f8f8f8">
         <div class="container" data-aos="fade-right">
             <h2 class="title"><span>LỊCH SỬ HÌNH THÀNH</span></h2>
             <div class="row">
@@ -119,7 +119,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="tamnhin ">
         <div class="container ">
