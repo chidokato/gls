@@ -262,6 +262,10 @@ $('.lanhdao-slider').owlCarousel({
     dots: true,
     responsiveClass: false,
     navText: false,
+    autoplay: true, // Tự động phát
+    autoplayTimeout: 2000, // Thời gian hiển thị cho mỗi slide (3 giây)
+    autoplayHoverPause: true, // Dừng tự động phát khi di chuột vào slider
+
     responsive:{
         0:{
             items:1
