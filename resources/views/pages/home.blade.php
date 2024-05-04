@@ -153,14 +153,14 @@
         </div>
     </div>
 
-    <div class="giatricotloi">
+    <div class="sumenh">
         <div class="container ">
             <div class="row">
                 <div class="col-lg-5 left">
                     <div class="img"><img src="data/home/anh2.png"></div>
                 </div>
                 <div class="col-lg-7">
-                    <h4 class="title"><span>Sứ Mệnh</span></h4>
+                    <h4 class="title"><span>SỨ MỆNH</span></h4>
                     <div class="a1211">
                         <div class="iteam_row">
                             <img src="data/home/icon-park-outline_customer.svg">
@@ -182,6 +182,13 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="giatricotloi">
+        <div class="container">
+            <h4 class="title"><span>GIÁ TRỊ CỐT LÕI</span></h4>
+            <div class="img"><img src="data/home/3c.png"></div>
         </div>
     </div>
 

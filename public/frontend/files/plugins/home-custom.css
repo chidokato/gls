@@ -140,15 +140,19 @@
 .tamnhin .title{ text-align:left; }
 .tamnhin .iteam_row{ display:flex; align-items: center; margin:30px 0px }
 
-.giatricotloi{padding:70px 0px; background-image: linear-gradient(0deg, #c4d0db, #fff); }
-.giatricotloi .title{ text-align:left; margin-bottom:30px }
-.giatricotloi .a1211{ display:flex; }
-.giatricotloi .a1211 .iteam_row{ padding: 30px; background-image: linear-gradient(0deg, #fff, #c4d0db); margin-right:20px; width:50%; border-radius:5px }
-.giatricotloi .a1211 .iteam_row:hover{ background:#fff; }
-.giatricotloi .iteam_row img{ margin-bottom:10px }
-.giatricotloi .iteam_row .title{ font-size:1.1rem; margin-bottom:10px }
-.giatricotloi .iteam_row ul li{ list-style:circle; margin-bottom:10px; margin-left:20px }
-.giatricotloi .left{ display:flex; align-items: center; }
+.sumenh{padding:70px 0px; background-image: linear-gradient(0deg, #c4d0db, #fff); }
+.sumenh .title{ text-align:left; margin-bottom:30px }
+.sumenh .a1211{ display:flex; }
+.sumenh .a1211 .iteam_row{ padding: 30px; background-image: linear-gradient(0deg, #fff, #c4d0db); margin-right:20px; width:50%; border-radius:5px }
+.sumenh .a1211 .iteam_row:hover{ background:#fff; }
+.sumenh .iteam_row img{ margin-bottom:10px }
+.sumenh .iteam_row .title{ font-size:1.1rem; margin-bottom:10px }
+.sumenh .iteam_row ul li{ list-style:circle; margin-bottom:10px; margin-left:20px }
+.sumenh .left{ display:flex; align-items: center; }
+
+.giatricotloi{ background-image: linear-gradient(0deg, #fff, #c4d0db); padding:40px 0px }
+.giatricotloi .img{ text-align:center; padding:30px }
+.giatricotloi .img img{ height:500px } 
 
 .lanhdao{ padding:60px 0px }
 .lanhdao .title{ text-align:left; margin-bottom:30px }
@@ -165,6 +169,7 @@
 .chuongtrinhhoc .info h4{ margin-bottom:20px; text-align:left; }
 
 .anh .img{ text-align:center; }
+.anh .img img{ height:300px }
 .anh p{ text-align:center; font-weight:bold; font-size:1.3rem; margin:20px auto; }
 
 .owl-carousel button.owl-dot {
