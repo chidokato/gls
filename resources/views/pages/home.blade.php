@@ -35,7 +35,7 @@
 
                     </div>
                     <div class="logo-home">
-                        <img src="data/home/logogls.png">
+                        <img data-aos="fade-up" src="data/home/logogls.png">
                     </div>
                     <div class="carousel_lod--list owl-carousel">
                         <div class="row_itemw">
