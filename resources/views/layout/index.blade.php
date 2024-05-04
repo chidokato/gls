@@ -120,7 +120,10 @@
 
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-      AOS.init();
+    AOS.init({
+        duration: 1500
+    });
+
     </script>
     
 @yield('js')
