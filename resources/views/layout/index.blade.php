@@ -103,7 +103,7 @@
 </div>
 
 <!-- Vendor JS files -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    
     <script src="frontend/content/Js/jquery-3.5.1.min.js"></script>
     <script type="text/javascript " src="frontend/files/cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
     <script src="frontend/files/cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
@@ -118,7 +118,10 @@
     <script src="frontend/content/Js/menu.js"></script>
     <script src="frontend/content/Js/header.js"></script>
 
-
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
     
 @yield('js')
     
