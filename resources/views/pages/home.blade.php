@@ -247,7 +247,7 @@
                         <div class="img"><img src="data/home/thuctapduc.jpg"></div>
                     </div>
                     <div class="col-lg-7 info">
-                        <h4 class="title"><span>Chương trình thực tập sinh ĐỨC</span></h4>
+                        <h4 class="title"><span>Chương trình du học nghề ĐỨC</span></h4>
                         <p>Chương trình du học nghề tại Đức là chương trình được nhiều bạn trẻ yêu thích. Đức từ lâu được biết đến là một trong những nước phát triển nhất thế giới. Quốc gia này giữ vai trò quan trọng trong việc định hình nền kinh tế của Liên minh châu  u. Cùng với nền kinh tế phát triển, nhu cầu về nguồn nhân lực tại Đức luôn ở mức cao, đặc biệt trong những ngành mũi nhọn, có tiềm năng lớn như khách sạn, du lịch và nông nghiệp</p>
                     </div>
                     
