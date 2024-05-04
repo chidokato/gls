@@ -187,7 +187,7 @@
     <div class="giatricotloi">
         <div class="container">
             <h4 class="title"><span>GIÁ TRỊ CỐT LÕI</span></h4>
-            <div class="img" data-aos="fade-up"><img src="data/home/3c.png"></div>
+            <div class="img" data-aos="fade-up"><img src="data/home/gtcl.png"></div>
         </div>
     </div>
 
