@@ -39,22 +39,22 @@
 						<p>GLS đảm bảo chi phí tham gia chương trình tốt nhất thị trường.</p>
 					</div>
 					<div class="iteam">
-						<i class="fa fa-cubes" aria-hidden="true"></i>
+						<i class="fa fa-address-card" aria-hidden="true"></i>
 						<h4>Tỷ lệ đậu visa cao</h4>
 						<p>Tỷ lệ đậu visa cao lên tới 95%</p>
 					</div>
 					<div class="iteam">
-						<i class="fa fa-cubes" aria-hidden="true"></i>
+						<i class="fa fa-heart" aria-hidden="true"></i>
 						<h4>Hỗ trợ tư vấn miễn phí</h4>
 						<p>Đội ngũ nhân viên tư vấn hỗ trợ nhiệt tình, giàu kinh nghiệm, hỗ trợ giải đáp thắc mắc 24/7.</p>
 					</div>
 					<div class="iteam">
-						<i class="fa fa-cubes" aria-hidden="true"></i>
+						<i class="fa fa-handshake" aria-hidden="true"></i>
 						<h4>Đối tác chiến lược</h4>
 						<p>GLS là đối tác của rất nhiều chuỗi khách sạn 4-5 sao trên toàn lãnh thổ Mỹ.</p>
 					</div>
 					<div class="iteam">
-						<i class="fa fa-cubes" aria-hidden="true"></i>
+						<i class="fa fa-book" aria-hidden="true"></i>
 						<h4>Tài liệu và kinh nghiệm độc quyền</h4>
 						<p class="style-4">Cung cấp tài liệu và kinh nghiệm độc quyền để giúp bạn chuẩn bị tốt nhất hồ sơ cũng như các buổi phỏng vấn với tổ chức bảo trợ, cơ sở thực tập và đại sứ quán.</p>
 					</div>
