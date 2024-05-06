@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8">
-				<div class="img"><img src="frontend/imgs/style/cover-my.png"></div>
+				<div class="img"><img src="frontend/imgs/style/taisaochonmy.png"></div>
 			</div>
 			<div class="col-lg-4">
 				<div class="content">
@@ -129,36 +129,168 @@
 			<div class="col-lg-12">
 				<h2 class="title"><span>NHỮNG VỊ TRÍ THỰC TẬP VÀ TU NGHIỆP</span></h2>
 			</div>
-			<div class="col-lg-12">
-				<div class="owl-carousel lanhdao-slider">
-				    <div class="row">
-				        <div class="col-lg-5">
-				            <div class="img"><img src="data/home/thuctapmy.jpg"></div>
-				        </div>
-				        <div class="col-lg-7 info">
-				            NGÀNH NÔNG NGHIỆP, L M NGHIỆP VÀ ĐÁNH BẮT CÁ
-							Kinh doanh nông nghiệp/Hoạt động kinh doanh nông nghiệp
-							Khoa học thực phẩm 
-							Hoạt động trồng trọt/làm vườn ứng dụng
-							Khoa học và Công nghệ thực phẩm, 
-							Quản lý chăn nuôi 
-							Khoa học đất,...
-				        </div>
-				    </div>
-				    <div class="row">
-				        <div class="col-lg-5">
-				            <div class="img"><img src="data/home/thuctapmy.jpg"></div>
-				        </div>
-				        <div class="col-lg-7 info">
-				            NGÀNH NÔNG NGHIỆP, L M NGHIỆP VÀ ĐÁNH BẮT CÁ
-							Kinh doanh nông nghiệp/Hoạt động kinh doanh nông nghiệp
-							Khoa học thực phẩm 
-							Hoạt động trồng trọt/làm vườn ứng dụng
-							Khoa học và Công nghệ thực phẩm, 
-							Quản lý chăn nuôi 
-							Khoa học đất,...
-				        </div>
-				    </div>
+			<div class="col-lg-5">
+				<div class="img"><img src="frontend/imgs/style/taisaochonmy.png"></div>
+			</div>
+			<div class="col-lg-7">
+				<div id="accordion">
+					<div class="card">
+						<div class="card-header" id="headingOne">
+							<h5 class="mb-0">
+								<a class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+									NGÀNH NÔNG NGHIỆP, LÂM NGHIỆP VÀ ĐÁNH BẮT CÁ
+								</a>
+							</h5>
+						</div>
+						<div id="collapse1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Kinh doanh nông nghiệp/Hoạt động kinh doanh nông nghiệp</li>
+									<li>Khoa học thực phẩm </li>
+									<li>Hoạt động trồng trọt/làm vườn ứng dụng</li>
+									<li>Khoa học và Công nghệ thực phẩm, </li>
+									<li>Quản lý chăn nuôi </li>
+									<li>Khoa học đất,...</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+								LĨNH VỰC VĂN HÓA NGHỆ THUẬT
+								</a>
+								<i class="fa fa-sort-desc" aria-hidden="true"></i>
+							</h5>
+						</div>
+						<div id="collapse2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									<li>Quay phim và sản xuất phim/video</li>
+									<li>Nhiếp ảnh thương mại</li>
+									<li>Nghệ thuật thương mại và quảng cáo</li>
+									<li>Quản lý nghệ thuật</li>
+									<li>Thiết kế và truyền thông hình ảnh</li>
+									<li>Kịch và sân khấu/Nghệ thuật sân khấu</li>
+									<li>Thiết kế thời trang/may mặc</li>
+									<li>Thiết kế đồ họa/ Minh họa</li>
+									<li>Thiết kế công nghiệp</li>
+									<li>Thiết kế nội thất</li>
+									<li>Quản lý âm nhạc và Buôn bán</li>
+									<li>Viết kịch và Viết kịch bản</li>
+									<li>Sản xuất bản in</li>
+									<li>Điêu khắc</li>
+									<li>Quản lý Nghệ thuật Sân khấu/Sân khấu</li>
+									<li>Nghệ thuật Thị giác và Biểu diễn…</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+								KHÁCH SẠN VÀ DU LỊCH
+								</a>
+							</h5>
+						</div>
+						<div id="collapse3" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+								HÀNH CHÍNH CÔNG VÀ LUẬT
+								</a>
+							</h5>
+						</div>
+						<div id="collapse4" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+								NGÀNH THÔNG TIN VÀ TRUYỀN THÔNG
+								</a>
+							</h5>
+						</div>
+						<div id="collapse5" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+								XÂY DỰNG VÀ KINH DOANH X Y DỰNG
+								</a>
+							</h5>
+						</div>
+						<div id="collapse6" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+								QUẢN LÝ, KINH DOANH, THƯƠNG MẠI VÀ TÀI CHÍNH
+								</a>
+							</h5>
+						</div>
+						<div id="collapse7" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="card">
+						<div class="card-header" id="headingTwo">
+							<h5 class="mb-0">
+								<a class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+								KHOA HỌC, KỸ THUẬT, KIẾN TRÚC, TOÁN HỌC
+								</a>
+							</h5>
+						</div>
+						<div id="collapse8" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div class="card-body">
+								<ul>
+									<li>Thiết kế và nghệ thuật ứng dụng</li>
+									
+								</ul>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 		</div>

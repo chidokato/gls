@@ -19,16 +19,29 @@ h2{ text-align:center; font-size:1.5rem; color:var(--main-color); font-weight:bo
 .row-2 .img img{ height:450px; object-fit:cover; border-radius:100px 10px 100px 10px }
 .row-2 .col-lg-4 .content{ position:absolute; top:60px; left:-250px; background: var(--main-color); padding:30px; color:#fff; border-radius:10px }
 .row-2 .content h2{ font-size:1.2rem; font-weight:bold; margin-bottom:15px; color:#fff; text-align:left; }
-.row-2 .content p{ font-size:.9rem; margin-bottom:3px; line-height:19px }
+.row-2 .content p{ font-size:.9rem; margin-bottom:6px; line-height:19px; position:relative; padding-left:13px }
+.row-2 .content p:after {content: "";position: absolute;left: 0;top: 6px; width: 6px; height: 6px; background: #fff; border-radius: 100%}
+
 
 
 .row-3 .subtile{ text-align:center; margin-bottom:25px }
 .row-3 .list_item{ display:flex; }
-.row-3 .list_item .iteam{ box-shadow:0px 2px 2px 2px #ddd; padding:20px 10px; border-radius:5px; border-top:3px solid var(--sub-color); margin:5px; background:#fff }
-.row-3 .list_item .iteam i{ color:var(--sub-color); margin-left:10px; font-size:3rem; margin-bottom:10px }
+.row-3 .list_item .iteam{ box-shadow:0px 2px 2px 2px #ddd; padding:20px 10px; border-radius:5px; border-top:3px solid var(--main-color); margin:5px; background:#fff }
+.row-3 .list_item .iteam i{ color:var(--main-color); margin-left:10px; font-size:3rem; margin-bottom:10px }
 .row-3 .list_item .iteam h4{ font-size:1.2rem; font-weight:bold; height:47px; padding:0px 5px }
 .row-3 .list_item .iteam p{ text-align:justify; height:96px; overflow:auto; padding:0px 5px }
 
 .style-4::-webkit-scrollbar{width: 5px;background-color: #f5f5f5;}
 .style-4::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);background-color: #f5f5f5;}
 .style-4::-webkit-scrollbar-thumb {background-color: var(--sub-color);}
+
+.row-7 h2{ margin-bottom:20px }
+.row-7 .card{ border:none }
+.row-7 .card-header{ padding:0px; background:none; }
+.row-7 .card-header h5{ display:flex; justify-content: space-between; }
+.row-7 .card-header h5 i{ color:var(--main-color); margin-top:5px }
+.row-7 .card-header h5 a{ color:var(--main-color); font-size:1rem; padding:5px 0px }
+.row-7 .card-body{ padding:10px 0px }
+.row-7 .card-body ul{ margin-bottom:0px; padding-left:20px }
+.row-7 .card-body ul li{ list-style:circle; }
+.row-7 .card{}
