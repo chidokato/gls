@@ -37,6 +37,7 @@ class HomeController extends Controller
             ->select('post_translations.*')
             ->orderBy('id', 'desc')
             ->where('sort_by', 'News')
+            ->take(10)
             ->get();
         // $posts = CategoryTranslation::where('locale', $locale)
         //     ->where('category_id', 71)
