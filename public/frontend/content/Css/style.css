@@ -43,8 +43,11 @@ h2{ text-align:center; font-size:1.5rem; color:var(--main-color); font-weight:bo
 .row-5 .iteam h4{ font-size:1.1rem; color:var(--main-color); margin-top:10px; margin-bottom:10px; font-weight:bold; }
 .row-5 .iteam p{ font-size:1rem; }
 
+.row-6 h2{ margin-bottom:20px }
+.row-6 .img{ text-align:center; }
+
 .row-7 h2{ margin-bottom:20px }
-.row-7 .card{ border:none }
+.row-7 .card{ border:none; background: none; }
 .row-7 .card-header{ padding:0px; background:none; }
 .row-7 .card-header h5{ display:flex; justify-content: space-between; }
 .row-7 .card-header h5 i{ color:var(--main-color); margin-top:5px }

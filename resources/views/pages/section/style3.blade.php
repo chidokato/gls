@@ -86,7 +86,7 @@
 	</div>
 </div>
 
-<div class="row-5">
+<div class="row-5 f8f8f8">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -144,14 +144,14 @@
 			<div class="col-lg-12">
 				<h2 class="title"><span>ĐIỀU KIỆN ĐI THỰC TẬP HƯỞNG LƯƠNG TẠI MỸ</span></h2>
 			</div>
-			<div class="col-lg-6">
-				
+			<div class="col-lg-12">
+				<div class="img"><img src="frontend/imgs/style/aaa.png"></div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="row-7">
+<div class="row-7 f8f8f8">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
