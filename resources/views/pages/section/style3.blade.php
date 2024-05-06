@@ -72,8 +72,14 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="content">
-					<p>Internship- Thực tập sinh: Dành cho những bạn đang học đại học, cao đẳng, trung cấp hoặc tốt nghiệp không quá 12 tháng với các chuyên ngành liên quan đến chuyên ngành xin thực tập</p>
-					<p>Trainee- Tu nghiệp sinh: Dành cho ứng viên đã tốt nghiệp quá 12 tháng hoặc ứng viên có bằng cấp chuyên ngành khác (không liên quan đến ngành đang định thực tập), song lại có ít nhất 5 năm kinh nghiệm thực tập thực tế liên quan đến ngành đang có ý định xin thực tập</p>
+					<h4>Internship - Thực tập sinh</h4>
+					<p>Dành cho những bạn đang học đại học, cao đẳng, trung cấp hoặc tốt nghiệp không quá 12 tháng với các chuyên ngành liên quan đến chuyên ngành xin thực tập</p>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="content">
+					<h4>Trainee - Tu nghiệp sinh</h4>
+					<p>Dành cho ứng viên đã tốt nghiệp quá 12 tháng hoặc ứng viên có bằng cấp chuyên ngành khác (không liên quan đến ngành đang định thực tập), song lại có ít nhất 5 năm kinh nghiệm thực tập thực tế liên quan đến ngành đang có ý định xin thực tập</p>
 				</div>
 			</div>
 		</div>
