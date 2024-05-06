@@ -38,6 +38,11 @@ h2{ text-align:center; font-size:1.5rem; color:var(--main-color); font-weight:bo
 .row-4 h4{ margin-bottom:20px }
 .row-4 .content{ padding:40px; background:var(--main-color); color:#fff; height:300px; display:flex; flex-direction: column; justify-content: center; border-radius:50px 10px 50px 10px }
 
+.row-5 h2{ margin-bottom:20px }
+.row-5 .iteam .icon{ border:3px solid var(--main-color); padding:10px; border-radius:100%; width:40px; height:40px; text-align:center; line-height:15px; font-weight:bold; color:var(--sub-color); }
+.row-5 .iteam h4{ font-size:1.1rem; color:var(--main-color); margin-top:10px; margin-bottom:10px; font-weight:bold; }
+.row-5 .iteam p{ font-size:1rem; }
+
 .row-7 h2{ margin-bottom:20px }
 .row-7 .card{ border:none }
 .row-7 .card-header{ padding:0px; background:none; }

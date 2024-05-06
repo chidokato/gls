@@ -93,24 +93,46 @@
 				<h2 class="title"><span>LỘ TRÌNH THỰC TẬP HƯỞNG LƯƠNG TẠI MỸ</span></h2>
 			</div>
 			<div class="col-lg-6">
-				B1: Tư vấn 1-1 cùng chuyên gia
-				Ứng viên sẽ được nhận tư vấn 1-1 cùng chuyên gia GLS về chương trình thực tập sinh Hoa Kỳ, sau đó sẽ được tham khảo hợp đồng cùng các điều khoản.
-				B2: Nộp hồ sơ và kí hợp đồng
-				Sau khi nhận tư vấn, ứng viên sẽ nộp hồ sơ và đồng thời ký hợp đồng với công ty GLS.
-				B3: Dịch thuật, công chứng, hoàn thiện hồ sơ
-				Công ty tiến hành các thủ tục dịch thuật, công chứng và hoàn thiện hồ sơ ứng viên, quá trình này có thể mất từ 3-6 tháng.
-				B4: Nộp hồ sơ cho nhà bảo trợ
-				Sau khi hoàn thiện, GLS gửi hồ sơ của ứng viên đến nhà bảo trợ tại Mỹ, nhà bảo trợ có vai trò bảo vệ tư cách hợp pháp của ứng viên khi làm việc và sinh sống tại Mỹ.
-				B5: Chuẩn bị phỏng vấn 
-				GLS sẽ hỗ trợ hướng dẫn cho ứng viên các kĩ năng cần thiết về các vòng phỏng vấn để ứng viên có sự chuẩn bị tốt nhất.
-				B6: Phỏng vấn
-				Ứng viên tiến hành tham gia phỏng vấn với nhà bảo trợ, nhà tuyển dụng và 
-				Đại sứ quán/lãnh sự quán
-				B7: Nhận visa từ lãnh sự quán và lên đường sang Hoa Kỳ
-				Sau khi qua các vòng phỏng vấn, ứng viên sẽ được nhận visa J1 từ lãnh sự quán và chuẩn bị lên đường đặt chân đến Hoa Kỳ.
-				B8: Hỗ trợ
-				Ứng viên sẽ được hỗ trợ đưa đón, sắp xếp chỗ ở và làm các thủ tục khi sang Hoa Kỳ.
-
+				<div class="iteam">
+					<div class="icon">B1</div>
+					<h4>Tư vấn 1-1 cùng chuyên gia</h4>
+					<p>Ứng viên sẽ được nhận tư vấn 1-1 cùng chuyên gia GLS về chương trình thực tập sinh Hoa Kỳ, sau đó sẽ được tham khảo hợp đồng cùng các điều khoản</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B2</div>
+					<h4>Nộp hồ sơ và kí hợp đồng</h4>
+					<p>Sau khi nhận tư vấn, ứng viên sẽ nộp hồ sơ và đồng thời ký hợp đồng với công ty GLS</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B3</div>
+					<h4>Dịch thuật, công chứng, hoàn thiện hồ sơ</h4>
+					<p>Công ty tiến hành các thủ tục dịch thuật, công chứng và hoàn thiện hồ sơ ứng viên, quá trình này có thể mất từ 3-6 tháng</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B4</div>
+					<h4>Nộp hồ sơ cho nhà bảo trợ</h4>
+					<p>Sau khi hoàn thiện, GLS gửi hồ sơ của ứng viên đến nhà bảo trợ tại Mỹ, nhà bảo trợ có vai trò bảo vệ tư cách hợp pháp của ứng viên khi làm việc và sinh sống tại Mỹ</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B5</div>
+					<h4>Chuẩn bị phỏng vấn</h4>
+					<p>GLS sẽ hỗ trợ hướng dẫn cho ứng viên các kĩ năng cần thiết về các vòng phỏng vấn để ứng viên có sự chuẩn bị tốt nhất</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B6</div>
+					<h4>Phỏng vấn</h4>
+					<p>Ứng viên tiến hành tham gia phỏng vấn với nhà bảo trợ, nhà tuyển dụng và Đại sứ quán/lãnh sự quán</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B7</div>
+					<h4>Nhận visa từ lãnh sự quán và lên đường sang Hoa Kỳ</h4>
+					<p>Sau khi qua các vòng phỏng vấn, ứng viên sẽ được nhận visa J1 từ lãnh sự quán và chuẩn bị lên đường đặt chân đến Hoa Kỳ</p>
+				</div>
+				<div class="iteam">
+					<div class="icon">B8</div>
+					<h4>Hỗ trợ</h4>
+					<p>Ứng viên sẽ được hỗ trợ đưa đón, sắp xếp chỗ ở và làm các thủ tục khi sang Hoa Kỳ</p>
+				</div>
 			</div>
 		</div>
 	</div>
