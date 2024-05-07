@@ -1691,3 +1691,29 @@ a:hover {
 .main_footer .logo{ height:100px; margin:auto; margin-bottom:20px }
 .main_footer p{ color:#000 }
 .main_footer .form .input_email{ margin-bottom:20px }
+
+
+.owl-carousel button.owl-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 0 5px;
+    background-color: var(--main-color) !important;
+    border:1px solid #fff !important;
+}
+.owl-carousel button.owl-dot.active {
+    width: 35px;
+    height: 10px;
+    background-color: var(--sub-color) !important;
+    border-radius: 20px;
+    border: 0px solid #e0e2e3;
+}
+.owl-dots {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: 0px;
+}

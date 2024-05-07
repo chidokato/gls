@@ -338,3 +338,23 @@ $('.5row-slider').owlCarousel({
         }
     }
 })
+
+$('.img-slider').owlCarousel({
+    loop: true,
+    margin: 8,
+    nav: false,
+    dots: true,
+    responsiveClass: false,
+    navText: false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
