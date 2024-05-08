@@ -220,7 +220,7 @@
 
 			</div>
 			<div class="col-lg-6">
-				<div class="img"><img src="frontend/imgs/style/taisaochonmy.png"></div>
+				<div class="img"><img src="frontend/imgs/style/quytrinh.webp"></div>
 			</div>
 		</div>
 	</div>
@@ -457,26 +457,28 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="owl-carousel img-slider">
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn1.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn2.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn3.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn4.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn5.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn6.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn7.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienvn8.jpg"></div>
+					
 				</div>
 				<h3>Hình ảnh tại Việt Nam</h3>
 			</div>
 			<div class="col-lg-6">
 				<div class="owl-carousel img-slider">
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy1.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy2.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy3.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy4.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy5.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy6.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/hocvienmy7.jpg"></div>
+					
 				</div>
 				<h3>Hình ảnh tại Mỹ</h3>
 			</div>
@@ -492,15 +494,16 @@
 			</div>
 			<div class="col-lg-12">
 				<div class="owl-carousel lanhdao-tintuc">
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
-					<div class="iteam">
-						<img src="frontend/imgs/style/taisaochonmy.png">
-					</div>
+					<div class="iteam"><img src="frontend/imgs/style/visa1.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa2.jpg"></div>
+					<!-- <div class="iteam"><img src="frontend/imgs/style/visa3.jpg"></div> -->
+					<div class="iteam"><img src="frontend/imgs/style/visa4.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa5.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa6.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa7.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa8.jpg"></div>
+					<div class="iteam"><img src="frontend/imgs/style/visa9.jpg"></div>
+					
 				</div>
 			</div>
 		</div>
