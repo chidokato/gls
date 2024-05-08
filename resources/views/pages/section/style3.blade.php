@@ -246,7 +246,14 @@
 				<h2 class="title"><span>NHỮNG VỊ TRÍ THỰC TẬP VÀ TU NGHIỆP</span></h2>
 			</div>
 			<div class="col-lg-6">
-				<div class="img"><img src="frontend/imgs/style/taisaochonmy.png"></div>
+				<div class="owl-carousel img-slider">
+					<div class="iteam"><img src="frontend/imgs/style/1.png"></div>
+					<div class="iteam"><img src="frontend/imgs/style/2.png"></div>
+					<div class="iteam"><img src="frontend/imgs/style/3.png"></div>
+					<div class="iteam"><img src="frontend/imgs/style/4.png"></div>
+					<div class="iteam"><img src="frontend/imgs/style/5.png"></div>
+					<div class="iteam"><img src="frontend/imgs/style/6.png"></div>
+				</div>
 			</div>
 			<div class="col-lg-6">
 				<div id="accordion1">

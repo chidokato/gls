@@ -65,8 +65,8 @@ h2{ text-align:center; font-size:1.5rem; color:var(--main-color); font-weight:bo
 .row-7 .card-body{ padding:10px 0px }
 .row-7 .card-body ul{ margin-bottom:0px; padding-left:20px; max-height:144px; overflow:auto; }
 .row-7 .card-body ul li{ list-style:circle; }
-.row-7 .img{ height:100% }
-.row-7 .img img{ height:100%; object-fit:cover; }
+.row-7 .iteam, .row-7 .img-slider, .row-7 .owl-item, .row-7 .owl-stage, .row-7 .owl-stage-outer{ height:100% }
+.row-7 .iteam img{ height:100%; object-fit:cover; }
 
 .row-8 h2{ margin-bottom:20px }
 .row-8 img{ border-radius:4px 4px 0px 0px; height:400px; object-fit:cover; }
