@@ -76,7 +76,7 @@
         </div>
     </div>
 
-    <!-- <div class="col-184293026 f8f8f8">
+    <div class="col-184293026 f8f8f8">
         <div class="container" data-aos="fade-right">
             <h2 class="title"><span>LỊCH SỬ HÌNH THÀNH</span></h2>
             <div class="row">
@@ -119,7 +119,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 
     <div class="tamnhin ">
         <div class="container ">
@@ -145,7 +145,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6" data-aos="fade-left">
+                <div class="col-lg-6" >
                     <div class="img"><img src="data/home/global-1-2.png"></div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
                 <div class="col-lg-5 left" data-aos="fade-up-right">
                     <div class="img"><img src="data/home/anh2.png"></div>
                 </div>
-                <div class="col-lg-7" data-aos="fade-up-left">
+                <div class="col-lg-7" >
                     <h4 class="title"><span>SỨ MỆNH</span></h4>
                     <div class="a1211">
                         <div class="iteam_row">
@@ -196,20 +196,20 @@
             <div class="row">
                 <div class="col-lg-12" data-aos="fade-right">
                     <h4 class="title"><span>Ban lãnh đạo</span></h4>
-                    <div class="owl-carousel lanhdao-slider">
-                        <!-- <div class="row iteam_row">
-                            <div class="col-lg-8">
-                                <div class="info">
-                                    <h3>Mr. Nguyễn Xuân Minh</h3>
-                                    <h4><i class="fa fa-exclamation-circle" aria-hidden="true"></i>  Chủ tịch hội đồng quản trị công ty cổ phần GLS Education</h4>
-                                    <img src="data/home/icon-before-custom.png">
-                                    <p> Với vai trò là người lãnh đạo cao nhất của Hội đồng quản trị, anh Minh có vai trò quyết định chiến lược và mục tiêu của công ty. Anh cũng là người đại diện cho GLS Education trong các cuộc đàm phán với các đối tác chiến lược và các bên liên quan khác, đảm bảo sự phát triển bền vững và thành công của công ty.</p>
-                                </div>
+                    <div class="row iteam_row">
+                        <div class="col-lg-8">
+                            <div class="info" >
+                                <h3>Mr. Bùi Quang Dự</h3>
+                                <h4><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Tổng Giám đốc công ty cổ phần GLS Education</h4>
+                                <img src="data/home/icon-before-custom.png">
+                                <p>Là người đóng vai trò chủ chốt trong việc thực thi chiến lược do Hội đồng quản trị đề ra và đảm bảo rằng mọi hoạt động diễn ra suôn sẻ và hiệu quả. Anh cũng đại diện cho công ty trong các mối quan hệ với đối tác và khách hàng, xây dựng và duy trì mối quan hệ hợp tác lâu dài.</p>
                             </div>
-                            <div class="col-lg-4">
-                                <div class="img"><img src="data/home/giamdoc.png"></div>
-                            </div>
-                        </div> -->
+                        </div>
+                        <div class="col-lg-4" >
+                            <div class="img"><img src="data/home/giamdoc.png"></div>
+                        </div>
+                    </div>
+                    <!-- <div class="owl-carousel lanhdao-slider">
                         <div class="row iteam_row">
                             <div class="col-lg-8">
                                 <div class="info" >
@@ -223,7 +223,7 @@
                                 <div class="img"><img src="data/home/giamdoc.png"></div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -231,7 +231,7 @@
 
     <div class="chuongtrinhhoc f8f8f8">
         <div class="container">
-            <div class="owl-carousel lanhdao-slider" data-aos="fade-left">
+            <div class="owl-carousel lanhdao-slider">
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="img"><img src="data/home/thuctapmy.jpg"></div>

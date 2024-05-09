@@ -300,12 +300,7 @@
             }
         }
 
-@media (max-width:576px){
-  	.box-img img{
-	  	height:auto !important; 
-	}
-	.header_contact .header_logo{ display: none }
-}
+
 
 
 @media (min-width: 768px){
@@ -314,3 +309,10 @@
 	}
 }
 
+
+@media (max-width:576px){
+  	.box-img img{height:auto !important;}
+	.header_contact .header_logo{ display: none }
+
+	
+}

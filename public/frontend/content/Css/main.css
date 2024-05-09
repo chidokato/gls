@@ -1688,7 +1688,7 @@ a:hover {
 .header_nav.active #cssmenu > ul > li.has-sub > a:before, .header_nav.active #cssmenu > ul > li.has-sub > a:after{ background:var(--main-color); }
 
 .footer h4.title{ text-align:left; font-size:1.3rem; margin-bottom:20px; border-bottom:1px solid #ddd; padding-bottom:20px }
-.main_footer .logo{ height:100px; margin:auto; margin-bottom:20px }
+.main_footer .logo{ height:100px; margin:auto; margin-bottom:20px; width:auto; }
 .main_footer p{ color:#000 }
 .main_footer .form .input_email{ margin-bottom:20px }
 
